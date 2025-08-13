@@ -38,9 +38,8 @@ Username
 Email
 First name
 Last name
-Step 3: Clicks on "I agree" checkbox
-Step 4: Clicks on Register Now
-Step 5: Redirects to login page
+Step 3: Clicks on Register Now
+Step 4: Redirects to login page
 📄 License
 This project is licensed under the MIT License.
 
